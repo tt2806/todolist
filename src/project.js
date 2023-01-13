@@ -1,7 +1,7 @@
 function Project(id, name, tasks) {
-    this.id = id
-    this.name = name
-    this.tasks = tasks
+  this.id = id;
+  this.name = name;
+  this.tasks = tasks;
 }
 
-export { Project }
+export { Project };
